@@ -1,0 +1,11 @@
+name,percentage,type,p_all
+SPSS,0.46851145,Impact Factor <=3,0.380725191
+R,0.173664122,Impact Factor <=3,0.222805344
+Prism,0.111641221,Impact Factor <=3,0.191316794
+SAS,0.101145038,Impact Factor <=3,0.088263359
+Stata,0.101145038,Impact Factor <=3,0.078721374
+SPSS,0.292938931,Impact Factor >3,
+R,0.271946565,Impact Factor >3,
+Prism,0.270992366,Impact Factor >3,
+SAS,0.075381679,Impact Factor >3,
+Stata,0.05629771,Impact Factor >3,
